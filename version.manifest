@@ -1,0 +1,7 @@
+{
+    "packageUrl":"http://updater-10064935.cos.myqcloud.com/tcg/",
+    "remoteVersionUrl":"http://updater-10064935.cos.myqcloud.com/tcg/version.manifest",
+    "remoteManifestUrl":"http://updater-10064935.cos.myqcloud.com/tcg/project.manifest",
+    "engineVersion":"Quick Cocos2d-x v3.6.2",
+    "version":"1.160601.1"
+}

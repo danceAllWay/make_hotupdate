@@ -1,0 +1,39 @@
+{
+    "packageUrl":"http://updater-10064935.cos.myqcloud.com/tcg/",
+    "remoteVersionUrl":"http://updater-10064935.cos.myqcloud.com/tcg/version.manifest",
+    "remoteManifestUrl":"http://updater-10064935.cos.myqcloud.com/tcg/project.manifest",
+    "engineVersion":"Quick Cocos2d-x v3.6.2",
+    "assets":
+    {
+        "/res/game.zip":
+        {
+            "md5":"77d9df72cdd8cd995fbf017e01463883"
+        },
+        "/src/ClientReg.lua":
+        {
+            "md5":"a20a572fd8c8820c2f07f518cb81b320"
+        },
+        "/res/ui/activityScene/gs_jiekaidiliang.png":
+        {
+            "md5":"2ff4645b7cc4a29f4766fdfe44c12180"
+        },
+        "/res/ui/touchfire.plist":
+        {
+            "md5":"73785663f4c18aa351b7b17164801f1c"
+        },
+        "/res/ui/dl-beijing.png":
+        {
+            "md5":"2edc715d4c2d05b1054a045035028a59"
+        },
+        "/src/luabit/bit.lua":
+        {
+            "md5":"424ba0542425427d593ff7a3b5a84ca5"
+        },
+        "/manifest.zip":
+        {
+            "md5":"3cd93d2ba35813b151464ad16c5d8fe7",
+            "compressed":true
+        }
+    },
+    "version":"1.160601.1"
+}
